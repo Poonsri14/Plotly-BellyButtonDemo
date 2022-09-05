@@ -10,3 +10,7 @@ To create a bubble chart that will display the following when an individual’s 
 
 To create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
+
+### Example of charts for test subject ID no.940
+
+![charts](https://github.com/Poonsri14/Plotly-BellyButtonDemo/blob/main/static/image/charts.png)

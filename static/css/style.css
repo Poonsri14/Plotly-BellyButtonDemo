@@ -1,0 +1,10 @@
+body {
+    color: #0d0c0c;
+  }
+  
+  .jumbotron {
+    background-image: url("../images/microbes.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+  
